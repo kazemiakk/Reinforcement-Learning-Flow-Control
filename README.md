@@ -5,8 +5,6 @@
 
 Code and models for the paper: **"Suppressing flow separation over a flat plate using machine learning"** (APS Division of Fluid Dynamics, 2019).
 
-*Authors: A Kazemi, P Rousseau, D Gomez, A Sureshkumar Nair, L Castillo, S Verma, OM Curet*
-
 ## 📌 Overview
 Flow separation is a major source of efficiency loss in aerodynamics. In this project, we employ Machine Learning to actively control and suppress flow separation over a flat plate. 
 
