@@ -8,7 +8,7 @@ Code and models for the paper: **"Suppressing flow separation over a flat plate 
 ## 📌 Overview
 Flow separation is a major source of efficiency loss in aerodynamics. In this project, we employ Machine Learning to actively control and suppress flow separation over a flat plate. 
 
-*(Add a 1-2 sentence description of the specific ML method used here, e.g., Deep Reinforcement Learning or a specific neural network architecture).*
+Specifically, this repository implements machine learning algorithms to intelligently optimize active flow control parameters, achieving significant drag reduction and separation suppression with minimal energy expenditure.
 
 ### Baseline Flow vs. ML-Controlled Flow
 *(Insert a side-by-side GIF or image here comparing the uncontrolled flow with separation vs. the controlled flow)*
