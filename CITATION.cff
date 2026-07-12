@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper as below."
+authors:
+  - family-names: "Kazemi"
+    given-names: "Amirkhosro"
+  - family-names: "Rousseau"
+    given-names: "Paul"
+  - family-names: "Gomez"
+    given-names: "Daniel"
+  - family-names: "Sureshkumar Nair"
+    given-names: "Aishwarya"
+  - family-names: "Castillo"
+    given-names: "Luciano"
+  - family-names: "Verma"
+    given-names: "Siddhartha"
+  - family-names: "Curet"
+    given-names: "Oscar M."
+title: "Suppressing flow separation over a flat plate using machine learning"
+date-released: 2019-11-01
+url: "https://ui.adsabs.harvard.edu/abs/2019APS..DFDQ33006K/abstract"
+preferred-citation:
+  type: conference-paper
+  title: "Suppressing flow separation over a flat plate using machine learning"
+  authors:
+    - family-names: "Kazemi"
+      given-names: "Amirkhosro"
+    - family-names: "Rousseau"
+      given-names: "Paul"
+    - family-names: "Gomez"
+      given-names: "Daniel"
+    - family-names: "Sureshkumar Nair"
+      given-names: "Aishwarya"
+    - family-names: "Castillo"
+      given-names: "Luciano"
+    - family-names: "Verma"
+      given-names: "Siddhartha"
+    - family-names: "Curet"
+      given-names: "Oscar M."
+  collection-title: "APS Division of Fluid Dynamics Meeting Abstracts"
+  year: 2019
